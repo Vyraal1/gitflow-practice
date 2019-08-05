@@ -19,8 +19,8 @@ Follow these steps for completing your project.
 
 ## Project
 
-- [ ] Create a new file called called INTRO.md
-- [ ] Write down 3 facts about yourself in the file.
+- [x] Create a new file called called INTRO.md
+- [x] Write down 3 facts about yourself in the file.
 - [ ] Follow the steps above for creating your branch, committing, and creating the pull request.
 - [ ] Send a link to the pull request to your team lead.
 
