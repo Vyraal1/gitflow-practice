@@ -14,14 +14,14 @@ Follow these steps to set up and work on your project:
 Follow these steps for completing your project.
 
 - [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete by merging the branch back into master.
+- [x] Add your team lead as a reviewer on the pull-request
+- [x] Your team lead will count the project as complete by merging the branch back into master.
 
 ## Project
 
 - [x] Create a new file called called INTRO.md
 - [x] Write down 3 facts about yourself in the file.
-- [ ] Follow the steps above for creating your branch, committing, and creating the pull request.
-- [ ] Send a link to the pull request to your team lead.
+- [x] Follow the steps above for creating your branch, committing, and creating the pull request.
+- [x] Send a link to the pull request to your team lead.
 
 Be sure to reach out if you have any questions!
